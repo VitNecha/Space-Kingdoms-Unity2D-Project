@@ -18,10 +18,16 @@ The project is in development (early stages).
 > ** Design **
 > Probably will change. At the start I'm using very generic images and templates found in Google.
 
-> ** First examples **
-> _**StartUp Menu**_
-> ![StartUp Menu](https://i.ibb.co/5Gmq2Bx/Unity-2018-4-33f1-Personal-Battle-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021.png)
->_**Interaction with Characters (Conversation)**_
->![Interaction with Characters](https://ibb.co/6gvw6fK)
->_**Starship Battle (basically, old pokemon battle style)**_
->![Starship Battle](https://ibb.co/KXMyH4p)
+** First examples **
+
+_**StartUp Menu**_
+
+![StartUp Menu](https://i.ibb.co/5Gmq2Bx/Unity-2018-4-33f1-Personal-Battle-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021.png)
+
+**Interaction with Characters (Conversation)**_
+
+![Interaction with Characters](https://i.ibb.co/pJWwC9H/Unity-2018-4-33f1-Personal-Menu-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021-1.png)
+
+**Starship Battle (basically, old pokemon battle style)**_
+
+![Starship Battle](https://i.ibb.co/80W8VvL/Unity-2018-4-33f1-Personal-Menu-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021-1.png)
