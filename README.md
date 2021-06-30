@@ -22,12 +22,12 @@ The project is in development (early stages).
 
 _**StartUp Menu**_
 
-![StartUp Menu](https://i.ibb.co/5Gmq2Bx/Unity-2018-4-33f1-Personal-Battle-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021.png)
+![StartUp Menu](https://i.ibb.co/pJWwC9H/Unity-2018-4-33f1-Personal-Menu-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021-1.png)
 
 **Interaction with Characters (Conversation)**_
 
-![Interaction with Characters](https://i.ibb.co/pJWwC9H/Unity-2018-4-33f1-Personal-Menu-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021-1.png)
+![Interaction with Characters](https://i.ibb.co/80W8VvL/Unity-2018-4-33f1-Personal-Menu-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021-1.png)
 
 **Starship Battle (basically, old pokemon battle style)**_
 
-![Starship Battle](https://i.ibb.co/80W8VvL/Unity-2018-4-33f1-Personal-Menu-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021-1.png)
+![Starship Battle](https://i.ibb.co/5Gmq2Bx/Unity-2018-4-33f1-Personal-Battle-Scene-unity-Space-Kingdoms-PC-Mac-Linux-Standalone-DX11-30-06-2021.png)
